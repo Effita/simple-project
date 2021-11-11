@@ -1,0 +1,72 @@
+p {
+    color: white;
+    font-size: 30px;
+    font-display: block;
+    line-height: 1;
+    letter-spacing: 1px;
+    
+}
+
+/* This a heading*/
+h1 {
+    font-family: serif;
+    color: yellow;
+    text-align: center;
+    font-size: 65px;
+    text-shadow: 1px 2px 1px 2px white;
+            
+    }
+h2 {
+    font-display: block;
+    color: yellow;
+    font-size: 30px;
+}
+
+h3, {
+    
+    color: yellow;
+    font-size: 17px;
+    
+}
+
+ol {
+
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: left
+}
+
+html {
+    
+    background-color: black;
+    text-align: center;
+    
+    }
+    
+    
+    img{
+        
+        padding: 0 auto;
+        margin: 0 20px 20px 20px;
+        height: 300px;
+        width: 250px;
+    }
+         
+
+body{
+    
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+a{
+    
+    text-decoration: none;
+    
+}
+
+a:hover{
+    
+    color: red;
+}
